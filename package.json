@@ -1,0 +1,33 @@
+{
+  "name": "get-cwd",
+  "version": "1.0.0",
+  "description": "A current working directory set, where you can get the current working directory path.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "current",
+    "working",
+    "directory",
+    "cwd",
+    "pwd",
+    "path",
+    "list",
+    "all",
+    "in",
+    "one",
+    "dir",
+    "pocket",
+    "module"
+  ],
+  "author": "Mayur Chhapra",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayurchhapra/get-cwd.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@mayurchhapra"
+  }
+}
